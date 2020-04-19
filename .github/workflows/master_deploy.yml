@@ -25,6 +25,7 @@ jobs:
         npm run deploy
     - name: Push to Heroku Production
       run: |
+        sed -i "18,19d; 35,38d" package.json
         git branch heroku-prod
         git checkout heroku-prod
         git pull origin master
