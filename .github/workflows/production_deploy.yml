@@ -1,4 +1,4 @@
-name: MasterDeployCI
+name: Production Deploy
 on:
   push:
     branches:
@@ -25,6 +25,7 @@ jobs:
         npm run deploy
     - name: Push to Heroku Production
       run: |
+        yarn install
         rm package-lock.json
         git branch heroku-prod
         git checkout heroku-prod

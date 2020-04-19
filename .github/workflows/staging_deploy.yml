@@ -1,0 +1,32 @@
+name: Production Deploy
+on:
+  push:
+    branches:
+      - staging
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [12.x]
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: Install Packages
+      run: npm install
+    - name: Push to Heroku Staging
+      run: |
+        yarn install
+        rm package-lock.json
+        git config --global user.email "bennet08121996nicholas@gmail.com"
+        git config --global user.name "nicholasbennet"
+        git remote set-url origin https://52688c1ad20fbcf898b4210f2891ae65d18afdaf@github.com/nicholasbennet/random-recipe.git
+        git branch heroku-staging
+        git checkout heroku-staging
+        git pull origin staging
+        git add .
+        git commit -am "Push to Staging"
+        git push -f origin heroku-staging
