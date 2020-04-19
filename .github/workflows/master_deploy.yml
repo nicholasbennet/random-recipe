@@ -28,6 +28,7 @@ jobs:
         sed -i "18,19d; 35,38d" package.json
         git branch heroku-prod
         git checkout heroku-prod
+        git pull origin heroku-prod
         git pull origin master
         git add .
         git commit -am "Push to Production"
