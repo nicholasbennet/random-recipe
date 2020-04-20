@@ -1,8 +1,8 @@
-name: Production Deploy
+name: Development Deploy
 on:
   push:
     branches:
-      - master
+      - development
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,16 +17,9 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - name: Install Packages
       run: npm install
-    - name: Push to Heroku Production
+    - name: Deploy to GH Pages
       run: |
-        rm package-lock.json
-        yarn install
         git config --global user.email "bennet08121996nicholas@gmail.com"
         git config --global user.name "nicholasbennet"
         git remote set-url origin https://52688c1ad20fbcf898b4210f2891ae65d18afdaf@github.com/nicholasbennet/random-recipe.git
-        git branch heroku-prod
-        git checkout heroku-prod
-        git pull origin master
-        git add .
-        git commit -am "Push to Production"
-        git push -f origin heroku-prod
+        npm run deploy
