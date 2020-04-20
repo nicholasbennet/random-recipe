@@ -20,7 +20,7 @@ jobs:
     - name: Push to Heroku Production
       run: |
         rm package-lock.json
-        sed -i "17 s/,//;18,19d;35,38d"
+        sed -i "17 s/,//;18,19d;35,38d" package.json
         yarn install
         git config --global user.email "bennet08121996nicholas@gmail.com"
         git config --global user.name "nicholasbennet"
