@@ -33,7 +33,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://nicholasbennet.github.io/random-recipe",
+  "homepage": "https://nicholasbennet.github.io/random-recipe",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
