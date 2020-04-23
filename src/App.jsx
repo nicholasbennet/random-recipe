@@ -3,8 +3,15 @@ import { hot } from 'react-hot-loader/root';
 import logo from './logo.svg';
 import './App.css';
 
+import recipe from './HebbarsRecipes.json'
+
+
 class App extends Component {
+  constructor(props){
+    super(props);
+  }
   render() {
+    console.log(recipe)
     return (
       <div className="App">
         <header className="App-header">
@@ -18,7 +25,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn React {this.props.name}
           </a>
         </header>
       </div>
