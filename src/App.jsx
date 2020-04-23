@@ -7,9 +7,6 @@ import recipe from './HebbarsRecipes.json'
 
 
 class App extends Component {
-  constructor(props){
-    super(props);
-  }
   render() {
     console.log(recipe)
     return (
