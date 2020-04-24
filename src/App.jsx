@@ -12,6 +12,8 @@ class App extends Component {
     this.state =  {
       selectedCategory: "dessert"
     }
+
+    this.handleRecipeChange = this.handleRecipeChange.bind(this);
   }
   // Get a Random number between 0 and max
   getRandomInt(max) {
@@ -39,7 +41,6 @@ class App extends Component {
     return this.getChosenRecipe()[randomRecipeNumber];
   }
 
-
   // Handles change in recipe
   handleRecipeChange(e) {
     this.setState({
@@ -55,7 +56,7 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
-          <select name="recipeDropdown" id="recipe" value={this.state.selectedCategory} onChange={(e) => this.handleRecipeChange(e)}>
+          <select name="recipeDropdown" id="recipe" value={this.state.selectedCategory} onChange={this.handleRecipeChange}>
             {this.getCategory().map((recipe) => <option key={recipe} value={recipe}>{recipe}</option>)}
           </select>
           <a
