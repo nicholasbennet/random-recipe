@@ -49,6 +49,7 @@ class App extends Component {
   }
 
   render() {
+    const randomRecipe = this.getRandomRecipe();
     return (
       <div className="App">
         <header className="App-header">
@@ -61,12 +62,13 @@ class App extends Component {
           </select>
           <a
             className="Random-Recipe"
-            href={this.getRandomRecipe().URL}
+            href={randomRecipe.URL}
             target="_blank"
             rel="noopener noreferrer"
           >
-            {this.getRandomRecipe().Name}
+            {randomRecipe.Name}
           </a>
+          
         </header>
       </div>
     );
