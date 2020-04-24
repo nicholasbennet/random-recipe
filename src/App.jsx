@@ -3,12 +3,37 @@ import { hot } from 'react-hot-loader/root';
 import logo from './logo.svg';
 import './App.css';
 
-import recipe from './HebbarsRecipes.json'
-
+import recipes from './HebbarsRecipes';
 
 class App extends Component {
+  // Get a Random number between 0 and max
+  getRandomInt(max) {
+    return Math.floor(Math.random() * Math.floor(max));
+  }
+
+  // Get an array of recipes of the chosen category
+  getChosenRecipe() {
+    return Object.values(recipes).filter(
+      (recipe) => recipe.Course === 'Dessert'
+    );
+  }
+
+  // Get all unique categories
+  getCategory() {
+    const categories = Object.values(recipes).map((recipe) =>
+      recipe.Course.toLowerCase()
+    );
+    return categories.filter((a, b) => categories.indexOf(a) === b);
+  }
+
+  // Get a random recipe from the chosen categories
+  getRandomRecipe() {
+    const randomRecipeNumber = this.getRandomInt(this.getChosenRecipe().length);
+
+    return this.getChosenRecipe()[randomRecipeNumber];
+  }
+
   render() {
-    console.log(recipe)
     return (
       <div className="App">
         <header className="App-header">
@@ -17,12 +42,12 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <a
-            className="App-link"
-            href="https://reactjs.org"
+            className="Random-Recipe"
+            href={this.getRandomRecipe().URL}
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React {this.props.name}
+            {this.getRandomRecipe().Name}
           </a>
         </header>
       </div>
