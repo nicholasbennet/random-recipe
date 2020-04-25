@@ -8,13 +8,13 @@
       "ghee / clarified butter",
       "ice",
       "maida / plain flour / refined flour",
-      "milk",
+      "milk, chilled",
       "lemon juice",
       "sugar",
-      "oil",
-      "dry fruits, for garnishing",
+      "oil / ghee",
+      "dry fruits",
       "cardamom powder / elachi powder",
-      "silver vrak for garnishing"
+      "silver vrak"
     ]
   },
   "1": {
@@ -121,8 +121,7 @@
       "coriander powder",
       "garam masala",
       "salt",
-      "basmati rice",
-      "water"
+      "basmati rice"
     ]
   },
   "6": {
@@ -161,8 +160,8 @@
       "salt",
       "butter",
       "milk",
-      "butter for serving",
-      "honey for serving"
+      "butter",
+      "honey"
     ]
   },
   "8": {
@@ -193,14 +192,14 @@
     "Course": "Dessert",
     "Cuisine": "Indian",
     "Ingredients": [
-      "(200 grams) curd / yogurt",
-      "(230 grams) sugar",
-      "(135 grams) oil",
+      "curd / yogurt",
+      "sugar",
+      "oil",
       "vanilla extract",
-      "(330 grams) maida / plain flour",
+      "maida / plain flour",
       "baking soda",
       "baking powder",
-      "(120 grams) milk, if required",
+      "milk",
       "sugar",
       "honey",
       "strawberry jam",
@@ -257,7 +256,7 @@
       "turmeric / haldi",
       "kashmiri red chilli powder",
       "coriander powder",
-      "1 tsp kasuri methi / dry fenugreek leaves",
+      "kasuri methi / dry fenugreek leaves",
       "tomato",
       "ginger paste",
       "potato / aloo",
@@ -353,8 +352,7 @@
       "kashmiri red chilli powder",
       "coriander powder",
       "garam masala",
-      "salt",
-      "water"
+      "salt"
     ]
   },
   "17": {
@@ -413,7 +411,7 @@
       "sugar",
       "dry yeast",
       "maida / plain flour / refined flour",
-      "1 tsp olive oil",
+      "olive oil",
       "salt",
       "processed cheese",
       "pizza sauce",
@@ -445,7 +443,6 @@
       "kashmiri red chilli powder",
       "salt",
       "soda",
-      "water or",
       "bread",
       "green chutney",
       "oil"
@@ -477,8 +474,7 @@
       "garam masala",
       "salt",
       "rice",
-      "moong dal",
-      "water"
+      "moong dal"
     ]
   },
   "23": {
@@ -505,8 +501,7 @@
       "onion",
       "ginger garlic paste",
       "salt",
-      "tomato",
-      "water"
+      "tomato"
     ]
   },
   "24": {
@@ -552,11 +547,11 @@
     "Cuisine": "international",
     "Ingredients": [
       "banana",
-      "150 gm sugar",
-      "70 gm curd / yogurt",
+      "sugar",
+      "curd / yogurt",
       "vanilla extract",
-      "100 gm olive oil",
-      "310 gm wheat flour / atta",
+      "olive oil",
+      "wheat flour / atta",
       "baking powder",
       "baking soda",
       "cinnamon powder",
@@ -789,7 +784,6 @@
     "Ingredients": [
       "whole black urad dal / sabut urad dal",
       "kidney beans / rajma",
-      "water for soaking",
       "salt",
       "ghee / clarified butter",
       "bay leaf / tej patta",
@@ -813,9 +807,9 @@
     "Name": "semiya upma recipe | vermicelli upma recipe | vermicelli recipe",
     "URL": "https://hebbarskitchen.com/semiya-upma-recipe-vermicelli-upma/",
     "Course": "Breakfast",
-    "Cuisine": "soutn indian",
+    "Cuisine": "South indian",
     "Ingredients": [
-      "to cook vermicelli:",
+      "vermicelli:",
       "oil",
       "vermicelli / semiya",
       "water to cook",
@@ -1020,8 +1014,7 @@
       "ajwain / caraway",
       "hing / asafoetida",
       "ginger garlic paste",
-      "salt",
-      "water"
+      "salt"
     ]
   },
   "48": {
@@ -1230,7 +1223,7 @@
       "vinegar",
       "sugar",
       "salt",
-      "gm or 2 pack rice noodles",
+      "rice noodles",
       "chilli flakes"
     ]
   },
@@ -1239,7 +1232,7 @@
     "URL": "https://hebbarskitchen.com/lollipop-recipe-homemade-honey-lollipops/",
     "Course": "candy",
     "Cuisine": "international",
-    "Ingredients": ["sugar", "water", "rd cup honey"]
+    "Ingredients": ["sugar", "rd cup honey"]
   },
   "58": {
     "Name": "tomato sambar recipe | thakkali sambar | tomato sambar for idli & dosa",
@@ -1247,7 +1240,7 @@
     "Course": "sambar",
     "Cuisine": "tamil nadu",
     "Ingredients": [
-      "400 gm tomato, chopped",
+      "tomato, chopped",
       "toor dal",
       "green chilli",
       "turmeric / haldi",
@@ -1335,7 +1328,7 @@
       "olive oil",
       "onion",
       "garlic",
-      "400gm pumpkin, sliced",
+      "pumpkin, sliced",
       "salt",
       "pepper",
       "cream to garnish"
@@ -1461,7 +1454,7 @@
       "sugar",
       "dry yeast",
       "maida / plain flour / refined flour",
-      "1 tsp olive oil",
+      "olive oil",
       "salt",
       "curd / yogurt",
       "kashmiri red chilli powder",
@@ -1604,7 +1597,6 @@
     "Ingredients": [
       "besan / gram flour",
       "drops yellow food colour",
-      "3 water",
       "baking soda",
       "oil",
       "sugar",
@@ -1822,18 +1814,18 @@
     "Course": "Dessert",
     "Cuisine": "international",
     "Ingredients": [
-      "150gm unsalted butter, room temperature",
-      "397gm condensed milk / milkmaid",
+      "unsalted butter, room temperature",
+      "condensed milk / milkmaid",
       "milk",
       "vanilla extract",
       "red food colour",
       "vinegar",
-      "263gm maida / plain flour / all purpose flour / refined flour",
+      "maida / plain flour / all purpose flour / refined flour",
       "cocoa powder",
       "baking soda",
       "baking powder",
       "salt",
-      "gm cream cheese",
+      "cream cheese",
       "unsalted butter",
       "vanilla extract",
       "icing sugar / powdered sugar",
@@ -1885,8 +1877,7 @@
       "chilli sauce",
       "pepper",
       "salt",
-      "corn flour",
-      "water"
+      "corn flour"
     ]
   },
   "90": {
@@ -1984,7 +1975,7 @@
       "jaggery / gud / bella",
       "cardamom powder / elachi powder",
       "rice flour",
-      "ghee for serving"
+      "ghee"
     ]
   },
   "95": {
@@ -2730,8 +2721,7 @@
       "kashmiri red chilli powder",
       "salt",
       "bunch methi / fenugreek leaves",
-      "toor dal",
-      "water"
+      "toor dal"
     ]
   },
   "130": {
@@ -2839,8 +2829,7 @@
       "carrot",
       "turmeric / haldi",
       "salt",
-      "moong dal",
-      "water"
+      "moong dal"
     ]
   },
   "136": {
@@ -2857,9 +2846,8 @@
       "salt",
       "butter",
       "oil",
-      "handful palak / spinach leaves",
-      "green chilli",
-      "water"
+      "handful of palak / spinach leaves",
+      "green chilli"
     ]
   },
   "137": {
@@ -2896,7 +2884,7 @@
       "dried kashmiri red chilli / lal mirch",
       "curry leaves",
       "dry coconut / kopra / desiccated coconut",
-      "small piece tamarind / emli",
+      "small piece tamarind / imli",
       "asafoetida / hing",
       "jaggery / gud",
       "turmeric / haldi",
@@ -2950,14 +2938,12 @@
       "coriander leaves",
       "kashmiri red chilli powder",
       "aamchur / dry mango powder",
-      "salt",
       "pack maggi masala",
       "bread crumbs",
       "maida / plain flour / refined flour",
       "corn flour",
       "pepper",
-      "salt",
-      "water"
+      "salt"
     ]
   },
   "142": {
@@ -3161,7 +3147,6 @@
     "Cuisine": "indo chinese, street food",
     "Ingredients": [
       "wheat flour / atta",
-      "salt",
       "oil",
       "garlic",
       "onion",
@@ -3181,7 +3166,6 @@
     "Cuisine": "Indian",
     "Ingredients": [
       "basmati rice",
-      "water for soaking",
       "litre milk",
       "sugar",
       "cardamom powder / elachi powder",
@@ -3197,7 +3181,6 @@
     "Cuisine": "Indian",
     "Ingredients": [
       "basmati rice",
-      "water for soaking",
       "litre milk",
       "sugar",
       "cardamom powder / elachi powder",
@@ -3363,7 +3346,6 @@
       "maida / plain flour / refined flour",
       "baking powder",
       "salt",
-      "cold water",
       "garlic",
       "onion",
       "capsicum",
@@ -3702,8 +3684,7 @@
       "mint / pudina leaves",
       "onions",
       "basmati rice",
-      "saffron water",
-      "water"
+      "saffron water"
     ]
   },
   "180": {
@@ -3966,7 +3947,7 @@
     "Course": "chutney",
     "Cuisine": "south indian",
     "Ingredients": [
-      "half cup skin ash gourd / winter melon / budhu kumbalakai / pumpkin",
+      "skin ash gourd / winter melon / budhu kumbalakai / pumpkin",
       "oil",
       "channa dal",
       "urad dal",
@@ -4333,10 +4314,8 @@
       "onion",
       "chilli sauce",
       "soy sauce",
-      "salt",
       "sugar",
-      "corn flour",
-      "water"
+      "corn flour"
     ]
   },
   "211": {
@@ -4679,8 +4658,6 @@
       "macaroni pasta",
       "oil",
       "salt",
-      "water to boil",
-      "olive oil / any cooking oil",
       "garlic / lasun",
       "onion",
       "tomato",
@@ -4711,8 +4688,7 @@
       "oil",
       "coconut",
       "jeera / cumin seeds",
-      "whole dried kashmiri red chilli",
-      "water"
+      "whole dried kashmiri red chilli"
     ]
   },
   "228": {
@@ -4864,8 +4840,7 @@
       "lemon juice",
       "ice cubes",
       "grape syrup",
-      "grapes",
-      "water"
+      "grapes"
     ]
   },
   "237": {
@@ -4885,7 +4860,7 @@
       "olives",
       "jalapeos",
       "chilli flakes",
-      "egano"
+      "oregano"
     ]
   },
   "238": {
@@ -5189,8 +5164,7 @@
       "medium sized potatoes",
       "garam masala",
       "coriander leaves",
-      "maida / plain flour / all-purpose flour",
-      "water"
+      "maida / plain flour / all-purpose flour"
     ]
   },
   "251": {
@@ -5202,7 +5176,9 @@
       "powdered sugar / icing sugar",
       "unsalted butter",
       "vanilla extract / vanilla essence",
-      "buttermilk or 1 cup warm milk + 1 tsp vinegar",
+      "buttermilk",
+      "milk",
+      "vinegar",
       "maida / plain flour / all-purpose flour",
       "unsweetened cocoa powder",
       "baking powder",
@@ -5440,8 +5416,8 @@
     "Course": "sweet",
     "Cuisine": "Indian",
     "Ingredients": [
-      "1 tsp ghee / clarified butter",
-      "tin / 397 gm condensed milk / milkmaid",
+      "ghee / clarified butter",
+      "condensed milk / milkmaid",
       "milk powder",
       "saffron milk",
       "cardamom powder / elachi powder",
@@ -5455,7 +5431,6 @@
     "Cuisine": "Indian",
     "Ingredients": [
       "whole moong dal / green gram dal",
-      "water for soaking",
       "oil",
       "mustard seeds / rai",
       "cumin / jeera",
@@ -5481,7 +5456,6 @@
     "Cuisine": "maharashtra",
     "Ingredients": [
       "thick poha / beaten rice / flattened rice / aval / avalakki",
-      "water for soaking",
       "sugar",
       "salt",
       "oil",
@@ -5564,7 +5538,6 @@
       "maida / plain flour / refined flour",
       "sugar",
       "salt",
-      "tsp oil",
       "oil"
     ]
   },
@@ -5630,8 +5603,7 @@
       "soy sauce",
       "vinegar",
       "salt",
-      "cornflour",
-      "water"
+      "cornflour"
     ]
   },
   "272": {
@@ -5736,8 +5708,7 @@
       "salt",
       "coriander leaves",
       "pudina / mint",
-      "basmati rice",
-      "water"
+      "basmati rice"
     ]
   },
   "276": {
@@ -5852,8 +5823,8 @@
       "cardamom powder / elachi powder",
       "milk / rabri",
       "oil",
-      "rabri for serving",
-      "dry fruits for garnishing",
+      "rabri",
+      "dry fruits",
       "sugar",
       "cardamom powder / elachi powder",
       "threads saffron"
@@ -5874,7 +5845,6 @@
       "coriander leaves",
       "onion",
       "salt",
-      "water if required",
       "oil"
     ]
   },
@@ -5898,8 +5868,6 @@
       "oil",
       "green chutney",
       "tamarind chutney / imli-chutney",
-      "salt",
-      "generous pinch kashmiri red chili powder",
       "cumin powder / jeera powder",
       "chaat masala",
       "onion",
@@ -5956,8 +5924,7 @@
       "tomato sauce",
       "salt",
       "soy sauce",
-      "corn flour",
-      "water"
+      "corn flour"
     ]
   },
   "286": {
@@ -6337,7 +6304,7 @@
       "ginger - chili paste",
       "turmeric / haldi",
       "salt",
-      "buttermilk or 1 cup curd + 1 cup water",
+      "buttermilk",
       "fresh coconut",
       "coriander leaves",
       "oil",
@@ -6883,7 +6850,6 @@
       "pepper",
       "parmesan cheese / any cheese",
       "penne pasta / any pasta your choice",
-      "water or to boil",
       "salt"
     ]
   },
@@ -7122,8 +7088,7 @@
       "coriander leaves",
       "cumin seeds / jeera",
       "salt",
-      "oil",
-      "water"
+      "oil"
     ]
   },
   "340": {
@@ -7254,7 +7219,7 @@
       "sugar",
       "kashmiri red chilli powder",
       "salt",
-      "egano",
+      "oregano",
       "chilli flakes",
       "tomato sauce",
       "butter"
@@ -7333,8 +7298,7 @@
       "salt",
       "ginger",
       "coriander leaves",
-      "maida / plain flour / all-purpose flour",
-      "water"
+      "maida / plain flour / all-purpose flour"
     ]
   },
   "351": {
@@ -7384,7 +7348,6 @@
       "thin poha / avalakki / beaten rice",
       "semolina / sooji / bombay rava",
       "salt",
-      "water for soaking",
       "aloo bhaji / potato masala",
       "oil"
     ]
@@ -7423,7 +7386,6 @@
       "kashmiri chilli powder",
       "pav bhaji masala",
       "salt",
-      "water or",
       "coriander leaves"
     ]
   },
@@ -7895,7 +7857,6 @@
     "Cuisine": "maharashtra",
     "Ingredients": [
       "sabudana / sago / javvarisi / sabbakki",
-      "water for soaking",
       "potatoes",
       "peanuts",
       "green chilli",
@@ -8063,7 +8024,7 @@
     "URL": "https://hebbarskitchen.com/rasgulla-recipe-sponge-easy-rasgulla/",
     "Course": "sweet",
     "Cuisine": "Indian",
-    "Ingredients": ["litre milk", "lemon juice", "water", "sugar", "water"]
+    "Ingredients": ["litre milk", "lemon juice", "sugar"]
   },
   "390": {
     "Name": "hotel style coconut chutney recipe for dosa and idli",
@@ -8263,7 +8224,7 @@
       "sandwich masala",
       "beetroot",
       "onion",
-      "tomato sauce for garnishing"
+      "tomato sauce"
     ]
   },
   "400": {
@@ -8611,8 +8572,7 @@
       "dry mango powder / amchur powder",
       "salt",
       "maida / all-purpose flour / plain flour",
-      "corn starch",
-      "water"
+      "corn starch"
     ]
   },
   "418": {
@@ -8657,7 +8617,7 @@
       "salt",
       "baking soda",
       "oil",
-      "chutney for serving"
+      "chutney"
     ]
   },
   "420": {
@@ -8901,8 +8861,6 @@
     "Cuisine": "south indian",
     "Ingredients": [
       "urad dal",
-      "water for soaking",
-      "water for grinding",
       "rice flour",
       "salt",
       "chilli",
@@ -9009,8 +8967,7 @@
       "soy sauce",
       "black pepper",
       "fried noodles",
-      "corn starch",
-      "water"
+      "corn starch"
     ]
   },
   "435": {
@@ -9023,7 +8980,6 @@
       "sooji / bombay rava / semolina",
       "rice flour",
       "curd / yogurt",
-      "water or",
       "salt",
       "oil",
       "aloo bhaji / potato masala / potato sabzi- for stuffing"
@@ -9108,7 +9064,6 @@
       "salt",
       "rice flour",
       "baking soda",
-      "water to prepare batter",
       "oil"
     ]
   },
@@ -9222,7 +9177,7 @@
       "cup",
       "jaggery",
       "salt a pinch",
-      "ghee / honey for serving"
+      "ghee / honey"
     ]
   },
   "446": {
@@ -9242,12 +9197,11 @@
       "coriander powder / dhania powder",
       "aamchur powder / dry mango powder",
       "chaat masala",
-      "bread crumbs or",
+      "bread crumbs",
       "salt",
       "oil",
       "maida / all purpose flour",
-      "corn flour",
-      "water"
+      "corn flour"
     ]
   },
   "447": {
@@ -9742,7 +9696,6 @@
       "idli rava - cream rice",
       "urad dal/spilt & skinned black gram lentils",
       "salt",
-      "water for soaking",
       "coconut oil to grease"
     ]
   },
@@ -9967,7 +9920,6 @@
       "menthe / fenugreek seeds",
       "cooked rice",
       "salt",
-      "water for soaking and grinding",
       "coconut oil to grease"
     ]
   },
@@ -10113,7 +10065,7 @@
       "green chilli",
       "ginger",
       "turmeric powder",
-      "sugar or",
+      "sugar",
       "salt",
       "lemon juice",
       "coriander leaves",
@@ -10152,7 +10104,6 @@
       "coconut leaf stick / hidisudi kaddi",
       "unroasted rava / sooji / semolina / bombay rava",
       "urad dal",
-      "water for soaking",
       "salt"
     ]
   },
@@ -10479,8 +10430,7 @@
       "ghee / clarified butter",
       "wheat flour / atta",
       "cardamom powder / ealchi powder",
-      "sugar",
-      "water"
+      "sugar"
     ]
   },
   "513": {
@@ -10559,8 +10509,7 @@
       "salt",
       "mint / pudina",
       "coriander",
-      "basmati rice",
-      "water"
+      "basmati rice"
     ]
   },
   "516": {
@@ -10590,8 +10539,7 @@
       "pepper",
       "sugar",
       "salt",
-      "corn flour",
-      "water"
+      "corn flour"
     ]
   },
   "517": {
@@ -10850,8 +10798,7 @@
       "maida / plain flour / all purpose flour",
       "corn flour",
       "kashmiri red chilli powder",
-      "salt",
-      "water"
+      "salt"
     ]
   },
   "529": {
@@ -11041,7 +10988,7 @@
       "sugar",
       "ghee / clarified butter",
       "cashew / kaju",
-      "ange food colour",
+      "orange food colour",
       "cardamom / elachi powder",
       "almonds / badam"
     ]
@@ -11142,7 +11089,7 @@
     "Course": "beverages",
     "Cuisine": "Indian",
     "Ingredients": [
-      "200 grams kokum / bhirand / muragalu / punarpuli / kaatampi, dry / fresh",
+      "kokum / bhirand / muragalu / punarpuli / kaatampi, dry / fresh",
       "sugar",
       "cumin powder / jeera powder",
       "pepper",
@@ -11188,19 +11135,19 @@
     "Course": "cake",
     "Cuisine": "international",
     "Ingredients": [
-      "(170grams) curd / yogurt",
-      "(150 grams) sugar",
+      "curd / yogurt",
+      "sugar",
       "vanilla extract",
-      "100 grams oil",
-      "(190 grams) maida / plain flour",
-      "(20 grams) cocoa powder",
+      "oil",
+      "maida / plain flour",
+      "cocoa powder",
       "baking powder",
       "baking soda",
       "salt",
       "milk",
-      "(60 grams) butter, room temperature",
-      "(135 grams) powdered sugar / icing sugar",
-      "(20 grams) cocoa powder",
+      "butter, room temperature",
+      "powdered sugar / icing sugar",
+      "cocoa powder",
       "heavy cream",
       "vanilla extract"
     ]
@@ -11318,7 +11265,7 @@
       "sugar",
       "ghee / clarified butter",
       "corn flour",
-      "ange food colour",
+      "orange food colour",
       "cardamom / elachi",
       "almonds / badam",
       "pistachios"
@@ -11472,7 +11419,8 @@
       "ginger garlic paste",
       "baking soda",
       "salt",
-      "350 grams peanuts / groundnuts",
+      "peanuts / groundnuts",
+      "oil",
       "oil",
       "chaat masala"
     ]
@@ -11577,7 +11525,7 @@
     "Course": "sweet",
     "Cuisine": "karnataka, south indian, udupi",
     "Ingredients": [
-      "800 grams ash gourd / winter melon / kumbala kai, grated",
+      "ash gourd / winter melon / kumbala kai, grated",
       "sugar",
       "saffron / kesar",
       "ghee / clarified butter",
@@ -11703,8 +11651,7 @@
       "cumin / jeera",
       "sesame",
       "hing / asafoetida",
-      "salt",
-      "water"
+      "salt"
     ]
   },
   "569": {
@@ -11723,7 +11670,7 @@
     "Name": "curry leaves powder recipe | karuveppilai podi | karivepaku podi",
     "URL": "https://hebbarskitchen.com/curry-leaves-powder-karuveppilai-podi/",
     "Course": "masala",
-    "Cuisine": "soutn indian",
+    "Cuisine": "South indian",
     "Ingredients": [
       "curry leaves / karibevu / kari patta / karuveppilai / karivepaku",
       "oil",
@@ -11783,8 +11730,7 @@
       "cumin powder / jeera powder",
       "turmeric",
       "salt",
-      "ghee / clarified butter",
-      "water"
+      "ghee / clarified butter"
     ]
   },
   "573": {
@@ -11852,8 +11798,7 @@
       "soy sauce",
       "pepper",
       "salt",
-      "corn flour",
-      "water"
+      "corn flour"
     ]
   },
   "576": {
@@ -12211,7 +12156,7 @@
     "URL": "https://hebbarskitchen.com/kerala-puttu-recipe-puttu-maker/",
     "Course": "Breakfast",
     "Cuisine": "kerala",
-    "Ingredients": ["puttu flour", "salt", "water", "coconut"]
+    "Ingredients": ["puttu flour", "salt", "coconut"]
   },
   "593": {
     "Name": "palkova recipe | how to make palkova with milk | palgova recipe",
@@ -12240,8 +12185,7 @@
       "hing / asafoetida",
       "salt",
       "oil",
-      "baking soda",
-      "water"
+      "baking soda"
     ]
   },
   "596": {
@@ -12284,20 +12228,20 @@
     "Course": "cake",
     "Cuisine": "interational",
     "Ingredients": [
-      "(255 ml) buttermilk / chaas",
-      "(240 gm) sugar",
-      "(120 ml) oil",
+      "buttermilk / chaas",
+      "sugar",
+      "oil",
       "vanilla extract",
-      "(185 gm) maida / plain flour",
-      "(30 gm) cocoa powder",
+      "maida / plain flour",
+      "cocoa powder",
       "baking powder",
       "baking soda",
       "cupcake liners",
-      "gm butter",
-      "(300 gm) powdered sugar",
+      "butter",
+      "powdered sugar",
       "vanilla extract",
       "milk",
-      "(30 gm) cocoa powder"
+      "cocoa powder"
     ]
   },
   "599": {
@@ -12421,17 +12365,16 @@
     "Cuisine": "maharashtra",
     "Ingredients": [
       "ghee / clarified butter",
-      "(100 gm)  gond / dinka / edible gum / anutu",
+      "gond / dinka / edible gum / anutu",
       "cashew / kaju",
       "almonds / badam",
       "raisins / kishmish",
-      "(100 gm) dry coconut / kopra, grated",
+      "dry coconut / kopra, grated",
       "poppy seeds / khus khus / gasgase",
-      "(100 gm) dry khajur / chuara / dry dates",
+      "dry khajur / chuara / dry dates",
       "cardamom powder / elachi powder",
       "nutmeg powder / jaiphal powder",
-      "(200 gm) jaggery / gud",
-      "water"
+      "jaggery / gud"
     ]
   },
   "604": {
@@ -12502,8 +12445,7 @@
       "beans",
       "turmeric",
       "salt",
-      "bansi rava / broken wheat / dalia / godhuma nooka / samba rava",
-      "water"
+      "bansi rava / broken wheat / dalia / godhuma nooka / samba rava"
     ]
   },
   "607": {
@@ -12589,7 +12531,7 @@
     "Course": "curries",
     "Cuisine": "south indian",
     "Ingredients": [
-      "gms suvarnagadde / elephant yam fresh / frozen",
+      "suvarnagadde / elephant yam fresh / frozen",
       "grated coconut",
       "jaggery",
       "lemon sized tamarind extract",
@@ -12686,8 +12628,7 @@
       "soy sauce",
       "pepper",
       "salt",
-      "corn flour",
-      "water"
+      "corn flour"
     ]
   },
   "615": {
@@ -12727,8 +12668,7 @@
       "fennel / saunf",
       "dried red chilli",
       "hing / asafoetida",
-      "curry leaves",
-      "water"
+      "curry leaves"
     ]
   },
   "617": {
@@ -12790,8 +12730,7 @@
       "corn flour",
       "maida / plain flour",
       "pepper",
-      "salt",
-      "water"
+      "salt"
     ]
   },
   "619": {
@@ -13123,8 +13062,7 @@
       "lemon",
       "sugar",
       "salt",
-      "green chilli",
-      "water"
+      "green chilli"
     ]
   },
   "633": {
@@ -13198,14 +13136,14 @@
     "Course": "cake",
     "Cuisine": "international",
     "Ingredients": [
-      "190 grams curd / yogurt",
-      "170 grams sugar",
+      "curd / yogurt",
+      "sugar",
       "vanilla extract",
-      "100 grams oil",
-      "260 grams maida / plain flour / refined flour / all purpose flour",
+      "oil",
+      "maida / plain flour / refined flour / all purpose flour",
       "baking soda",
       "baking powder",
-      "60 grams tutti frutti"
+      "tutti frutti"
     ]
   },
   "637": {
@@ -13478,10 +13416,10 @@
     "Cuisine": "Indian",
     "Ingredients": [
       "ghee / clarified butter",
-      "450 gm carrot, grated",
-      "245 gm milk",
-      "110 gm sugar",
-      "50 gm milk powder, full cream",
+      "carrot, grated",
+      "milk",
+      "sugar",
+      "milk powder, full cream",
       "cardamom powder",
       "almonds / badam"
     ]
@@ -13612,7 +13550,6 @@
     "Cuisine": "Indian",
     "Ingredients": [
       "maida / plain flour / all purpose flour",
-      "salt",
       "oil",
       "chickpea / chana",
       "potato / aloo",
@@ -13797,13 +13734,13 @@
     "Course": "cake",
     "Cuisine": "international",
     "Ingredients": [
-      "397 gm milkmaid / condensed milk",
+      "milkmaid / condensed milk",
       "oil",
       "vanilla extract / vanilla essence",
       "milk",
       "vinegar",
-      "180gm maida / plain flour / refined flour",
-      "15gm cocoa powder",
+      "maida / plain flour / refined flour",
+      "cocoa powder",
       "baking soda",
       "baking powder",
       "salt",
@@ -13942,7 +13879,7 @@
     "URL": "https://hebbarskitchen.com/homemade-low-sugar-strawberry-jam-recipe/",
     "Course": "jam",
     "Cuisine": "international",
-    "Ingredients": ["strawberry", "250 grams sugar", "lemon juice"]
+    "Ingredients": ["strawberry", "sugar", "lemon juice"]
   },
   "673": {
     "Name": "tomato upma recipe | tomato rava upma recipe | tomato rava bath",
@@ -14014,14 +13951,14 @@
     "Course": "sweet",
     "Cuisine": "Indian",
     "Ingredients": [
-      "250 gm maida / plain flour / refined flour / all purpose flour",
+      "maida / plain flour / refined flour / all purpose flour",
       "sugar",
       "baking powder",
-      "50 gm ghee / clarified butter",
-      "65 gm curd / yogurt",
+      "ghee / clarified butter",
+      "curd / yogurt",
       "oil",
-      "250 gm sugar",
-      "thread saffron / kesar",
+      "sugar",
+      "few thread saffron / kesar",
       "cardamom powder / elachi powder"
     ]
   },
@@ -14112,16 +14049,16 @@
     "Cuisine": "international",
     "Ingredients": [
       "tin",
-      "119 gm buttermilk",
-      "54 gm olive oil",
+      "buttermilk",
+      "olive oil",
       "vanilla extract",
       "vinegar",
-      "263 gm wheat flour",
+      "wheat flour",
       "baking powder",
       "baking soda",
       "cinnamon powder",
       "salt",
-      "180 gm carrot, grated",
+      "carrot, grated",
       "almonds / badam",
       "raisins / kishmish"
     ]
@@ -14137,7 +14074,6 @@
       "toor dal",
       "chana dal",
       "methi / fenugreek seeds",
-      "water for soaking",
       "thin poha / aval / flattened rice / avalakki",
       "mustard / rai",
       "cumin / jeera",
@@ -14367,7 +14303,7 @@
       "small potato",
       "capsicum",
       "onion",
-      "1 tsp ghee / clarified butter",
+      "ghee / clarified butter",
       "bay leaf / tej patta",
       "cinnamon / dalchini",
       "lavang",
@@ -14381,8 +14317,7 @@
       "salt",
       "fried onions / barista",
       "biryani masala powder",
-      "coriander & mint",
-      "water"
+      "coriander & mint"
     ]
   },
   "692": {
@@ -14456,7 +14391,7 @@
     "URL": "https://hebbarskitchen.com/peanut-chikki-recipe-groundnut-chikki/",
     "Course": "sweet",
     "Cuisine": "Indian",
-    "Ingredients": ["peanut / groundnut", "jaggery / gud / bella", "water"]
+    "Ingredients": ["peanut / groundnut", "jaggery / gud / bella"]
   },
   "696": {
     "Name": "paneer kolhapuri recipe | how to make spicy paneer kolhapuri gravy",
@@ -14508,8 +14443,7 @@
       "corn flour",
       "maida / plain flour / all purpose flour / refined flour",
       "black pepper",
-      "salt",
-      "water"
+      "salt"
     ]
   },
   "698": {
@@ -14580,8 +14514,7 @@
       "salt",
       "basmati rice",
       "coriander",
-      "milk",
-      "water"
+      "milk"
     ]
   },
   "701": {
@@ -14747,7 +14680,7 @@
     "URL": "https://hebbarskitchen.com/ari-pathiri-recipe-malbar-rice-pathiri/",
     "Course": "roti",
     "Cuisine": "kerala",
-    "Ingredients": ["rice flour", "water", "coconut oil", "salt"]
+    "Ingredients": ["rice flour", "coconut oil", "salt"]
   },
   "710": {
     "Name": "soya chilli recipe | soyabean chilly | chilli soya chunks | chilli soya",
@@ -14774,8 +14707,7 @@
       "chilli sauce",
       "pepper",
       "salt",
-      "corn flour",
-      "water"
+      "corn flour"
     ]
   },
   "711": {
@@ -14840,8 +14772,7 @@
       "corn flour",
       "maida / plain flour",
       "pepper",
-      "salt",
-      "water"
+      "salt"
     ]
   },
   "714": {
@@ -14931,10 +14862,10 @@
     "Course": "cake",
     "Cuisine": "Indian",
     "Ingredients": [
-      "(165 grams) jaggery / gud, grated",
-      "(135 grams) olive oil",
-      "(125 grams) curd",
-      "(300 grams) wheat flour / atta",
+      "jaggery / gud, grated",
+      "olive oil",
+      "curd",
+      "wheat flour / atta",
       "baking soda",
       "baking powder",
       "cinnamon powder",
@@ -14984,8 +14915,7 @@
       "mint / pudina",
       "coriander",
       "fried onions / barista",
-      "ghee / clarified butter",
-      "water"
+      "ghee / clarified butter"
     ]
   },
   "720": {
@@ -14995,8 +14925,8 @@
     "Cuisine": "international",
     "Ingredients": [
       "butter",
-      "(75 grams) powdered sugar / icing sugar",
-      "(250 grams) maida / plain flour / all purpose flour",
+      "powdered sugar / icing sugar",
+      "maida / plain flour / all purpose flour",
       "salt"
     ]
   },
@@ -15156,8 +15086,7 @@
       "garlic",
       "ginger",
       "onion",
-      "coconut",
-      "water"
+      "coconut"
     ]
   },
   "728": {
@@ -15272,7 +15201,6 @@
       "urad dal",
       "poha / aval / avalakki / flattened rice",
       "idli rice or sona masuri rice",
-      "water for soaking",
       "salt",
       "oil"
     ]
@@ -15343,8 +15271,7 @@
       "turmeric",
       "pepper",
       "salt",
-      "oil",
-      "water to knead"
+      "oil"
     ]
   },
   "738": {
@@ -15457,7 +15384,7 @@
       "ghee / clarified butter",
       "milk",
       "milk powder",
-      "(78 grams) maida / plain flour",
+      "maida / plain flour",
       "baking soda",
       "milk",
       "oil / ghee",
@@ -15476,7 +15403,7 @@
     "Ingredients": [
       "basmati rice",
       "salt",
-      "water for soaking & boiling",
+      "water & boiling",
       "oil",
       "garlic",
       "onion",
@@ -15988,7 +15915,7 @@
       "rava / semolina / suji",
       "salt",
       "ghee / clarified butter",
-      "oil for frying"
+      "oil"
     ]
   },
   "766": {
@@ -16011,7 +15938,7 @@
     "URL": "https://hebbarskitchen.com/neer-dosa-recipe-neer-dose-neerdose/",
     "Course": "breakfast / snacks",
     "Cuisine": "mangalore, udupi",
-    "Ingredients": ["sona masuri rice / dosa rice", "coconut", "salt", "water"]
+    "Ingredients": ["sona masuri rice / dosa rice", "coconut", "salt"]
   },
   "768": {
     "Name": "soppu saaru recipe | huli soppina saru | mulangi or radish leaves saaru",
@@ -16269,11 +16196,11 @@
     "Course": "cookies",
     "Cuisine": "international",
     "Ingredients": [
-      "(110 gm) butter",
-      "(55 gm) brown sugar",
-      "(60 gm) sugar",
-      "(100 gm) peanut butter",
-      "(150 gm) wheat flour / atta",
+      "butter",
+      "brown sugar",
+      "sugar",
+      "peanut butter",
+      "wheat flour / atta",
       "baking soda",
       "baking powder",
       "salt",
@@ -16334,13 +16261,13 @@
       "butter",
       "milk",
       "milk powder",
-      "(120 gm) butter",
-      "(150 gm) powdered sugar",
-      "(240 gm) maida / plain flour",
+      "butter",
+      "powdered sugar",
+      "maida / plain flour",
       "baking powder",
       "baking soda",
-      "(60 ml) curd / yogurt",
-      "(190 ml) milk",
+      "curd / yogurt",
+      "milk",
       "cardamom powder",
       "cashew & almonds"
     ]
@@ -16664,17 +16591,17 @@
     "Course": "cookies",
     "Cuisine": "international",
     "Ingredients": [
-      "(110 gm) butter",
-      "(60 gm) brown sugar",
-      "(100 gm) banana",
-      "(170 gm) rolled oats",
-      "(110 gm) maida / plain flour",
+      "butter",
+      "brown sugar",
+      "banana",
+      "rolled oats",
+      "maida / plain flour",
       "baking soda",
       "cinnamon powder",
       "salt",
       "vanilla extract",
-      "(80 gm) raisins / kishmish",
-      "(50gm) choc bits"
+      "raisins / kishmish",
+      "choc bits"
     ]
   },
   "796": {
@@ -16701,8 +16628,7 @@
     "Ingredients": [
       "besan / gram flour",
       "ghee / clarified butter",
-      "sugar",
-      "water"
+      "sugar"
     ]
   },
   "798": {
@@ -16971,13 +16897,13 @@
     "Course": "cake",
     "Cuisine": "international",
     "Ingredients": [
-      "(100 gm) butter",
-      "(230 gm) sugar",
-      "(255 ml) milk",
+      "butter",
+      "sugar",
+      "milk",
       "vinegar",
       "vanilla extract",
-      "(240 gm) maida / plain flour",
-      "(68 gm) custard powder",
+      "maida / plain flour",
+      "custard powder",
       "baking soda",
       "baking powder"
     ]
@@ -17007,7 +16933,6 @@
       "urad dal",
       "poha / avalakki / beaten rice",
       "salt",
-      "water for soaking and grinding",
       "oil"
     ]
   },
@@ -17112,8 +17037,7 @@
       "biryani masala",
       "curd / yogurt",
       "mint / pudina",
-      "coriander",
-      "water"
+      "coriander"
     ]
   },
   "816": {
@@ -17293,7 +17217,7 @@
       "dry coconut",
       "ghee / clarified butter",
       "sugar",
-      "oil / ghee for frying"
+      "oil / ghee"
     ]
   },
   "824": {
@@ -17500,12 +17424,12 @@
     "Course": "cake",
     "Cuisine": "international",
     "Ingredients": [
-      "(100 grams) butter, room temperature",
-      "(230 grams) sugar",
-      "(190 ml) coconut milk",
-      "(60 ml) buttermilk",
+      "butter, room temperature",
+      "sugar",
+      "coconut milk",
+      "buttermilk",
       "vanilla extract",
-      "(300 grams) maida / plain flour",
+      "maida / plain flour",
       "baking powder",
       "baking soda",
       "salt",
@@ -17567,8 +17491,7 @@
       "pepper",
       "salt",
       "sugar",
-      "corn flour",
-      "water"
+      "corn flour"
     ]
   },
   "836": {
@@ -17597,15 +17520,15 @@
     "Course": "cake",
     "Cuisine": "international",
     "Ingredients": [
-      "(300 gm) dates / khajur",
-      "(255 ml) milk",
-      "(190 ml) olive oil",
-      "(60 ml) curd / yogurt",
-      "(260 gm) wheat flour / atta",
+      "dates / khajur",
+      "milk",
+      "olive oil",
+      "curd / yogurt",
+      "wheat flour / atta",
       "baking powder",
       "baking soda",
       "milk",
-      "(60 gm) walnuts",
+      "walnuts",
       "dates / khajur"
     ]
   },
@@ -17728,8 +17651,8 @@
       "full cream milk",
       "vanilla extract",
       "vinegar",
-      "drops or  tsp red food colour",
-      "pieces chocolate",
+      "drops red food colour",
+      "pieces of chocolate",
       "whipped cream",
       "sugar crystals"
     ]
@@ -17756,8 +17679,7 @@
       "salt",
       "small brinjal / eggplant",
       "mustard",
-      "curry leaves",
-      "water"
+      "curry leaves"
     ]
   },
   "844": {
@@ -17781,7 +17703,7 @@
       "ajwain",
       "salt",
       "baking powder",
-      "oil for frying"
+      "oil"
     ]
   },
   "845": {
@@ -17861,9 +17783,9 @@
     "Ingredients": [
       "coconut oil",
       "methi / fenugreek seeds",
-      "(20 gm) coriander seeds",
+      "coriander seeds",
       "cumin / jeera",
-      "(30 gm) dried red chilli",
+      "dried red chilli",
       "curry leaves",
       "hing / asafoetida",
       "tomato",
@@ -18001,13 +17923,13 @@
     "Ingredients": [
       "rice",
       "urad dal",
-      "(110 gm) coconut",
+      "coconut",
       "coriander seeds",
       "jeera",
       "methi / fenugreek seeds",
       "turmeric",
-      "(60 gm) jaggery / gud",
-      "ball sized (30 gm)",
+      "jaggery / gud",
+      "ball sized",
       "salt",
       "dried red chilli",
       "colocasia leaves / kesuvina ele / aravi",
@@ -18047,9 +17969,9 @@
     "Course": "sweet",
     "Cuisine": "tamil nadu",
     "Ingredients": [
-      "(75 gm) murmura / puffed rice",
+      "murmura / puffed rice",
       "ghee / clarified butter",
-      "(230 gm) jaggery / gud"
+      "jaggery / gud"
     ]
   },
   "857": {
@@ -18085,11 +18007,11 @@
     "Course": "cake",
     "Cuisine": "international",
     "Ingredients": [
-      "(150 gm) butter, room temperature",
-      "(415 gm) sugar",
-      "(510 ml) milk",
+      "butter, room temperature",
+      "sugar",
+      "milk",
       "vanilla extract",
-      "(465 gm) maida / plain flour",
+      "maida / plain flour",
       "baking powder",
       "baking soda",
       "salt"
@@ -18159,12 +18081,12 @@
     "Cuisine": "international",
     "Ingredients": [
       "dark chocolate",
-      "(140 gm) butter",
-      "( 245 gm) sugar",
-      "(60 ml) curd / yogurt",
+      "butter",
+      "sugar",
+      "curd / yogurt",
       "vanilla extract",
-      "(215 gm) maida / plain flour",
-      "(60 gm) cocoa powder",
+      "maida / plain flour",
+      "cocoa powder",
       "baking powder",
       "baking soda",
       "salt",
@@ -18185,8 +18107,7 @@
       "curry leaves",
       "idli rava / rice rava",
       "coconut",
-      "salt",
-      "water"
+      "salt"
     ]
   },
   "864": {
@@ -18224,7 +18145,7 @@
       "milk",
       "milk powder",
       "sugar",
-      "oil or ghee for frying"
+      "oil or ghee"
     ]
   },
   "866": {
@@ -18399,7 +18320,7 @@
       "milk",
       "sugar",
       "dry yeast",
-      "(450 grams) maida / plain flour",
+      "maida / plain flour",
       "salt",
       "butter"
     ]
@@ -18598,11 +18519,11 @@
     "Cuisine": "international",
     "Ingredients": [
       "milk",
-      "(12 grams) cocoa powder",
-      "(16 grams) corn flour",
-      "(60 grams) sugar",
+      "cocoa powder",
+      "corn flour",
+      "sugar",
       "cream",
-      "(95 grams) chocolate chip",
+      "chocolate chip",
       "vanilla extract",
       "salt"
     ]
@@ -18659,21 +18580,20 @@
     "Course": "snacks",
     "Cuisine": "street food",
     "Ingredients": [
-      "1 butter",
+      "butter",
       "tomato",
       "peas / matar",
       "capsicum",
       "potato",
       "salt",
       "turmeric / haldi",
-      "tsp pav bhaji masala",
-      "1 tsp kasuri methi / dry fenugreek leaves",
-      "1 coriander leaves",
+      "pav bhaji masala",
+      "kasuri methi / dry fenugreek leaves",
+      "coriander leaves",
       "ginger garlic paste",
       "onion",
       "lemon juice",
       "drops red food colour",
-      "water to adjust consistency",
       "pav / bread roll",
       "butter",
       "kashmiri red chilli powder",
@@ -18711,8 +18631,7 @@
       "kashmiri red chilli powder",
       "ajwain / carom seeds",
       "salt",
-      "oil",
-      "water"
+      "oil"
     ]
   },
   "886": {
@@ -18821,7 +18740,7 @@
     "Course": "sauce",
     "Cuisine": "Indian",
     "Ingredients": [
-      "(300 grams) chilli",
+      "chilli",
       "garlic",
       "ginger",
       "salt",
@@ -18870,8 +18789,8 @@
       "tomato",
       "salt",
       "pepper",
-      "cream for garnishing",
-      "mint for garnishing"
+      "cream",
+      "mint"
     ]
   },
   "893": {
@@ -18891,12 +18810,11 @@
       "methi / fenugreek",
       "hing / asafoetida",
       "curry leaves",
-      "(340 grams) shallot, halves",
+      "shallot, halves",
       "salt",
       "turmeric",
       "tamarind extract",
-      "jaggery / gud",
-      "water"
+      "jaggery / gud"
     ]
   },
   "894": {
@@ -19071,8 +18989,8 @@
       "baking soda",
       "salt",
       "rice flour",
-      "peanut oil for serving",
-      "pickle masala for serving"
+      "peanut oil",
+      "pickle masala"
     ]
   },
   "902": {
@@ -19189,9 +19107,9 @@
     "Course": "cookies",
     "Cuisine": "international",
     "Ingredients": [
-      "110 grams butter, softened",
-      "110 grams sugar",
-      "160 grams wheat flour / atta",
+      "butter, softened",
+      "sugar",
+      "wheat flour / atta",
       "baking powder",
       "baking soda",
       "salt",
@@ -19486,7 +19404,7 @@
       "sesame / til",
       "hing / asafoetida",
       "salt",
-      "oil for frying"
+      "oil"
     ]
   },
   "920": {
@@ -19495,24 +19413,23 @@
     "Course": "cake",
     "Cuisine": "international",
     "Ingredients": [
-      "(135 grams) curd / yogurt",
-      "(120 grams) sugar",
-      "(55 grams) oil",
+      "curd / yogurt",
+      "sugar",
+      "oil",
       "vanilla extract",
-      "(170 grams) maida / plain flour",
+      "maida / plain flour",
       "baking soda",
       "baking powder",
       "salt",
-      "(135 grams) curd / yogurt",
-      "(120 grams) sugar",
-      "(55 grams) oil",
+      "curd / yogurt",
+      "sugar",
+      "oil",
       "vanilla extract",
-      "(127 grams) maida / plain flour",
-      "(20 grams) cocoa powder",
+      "maida / plain flour",
+      "cocoa powder",
       "baking soda",
       "baking powder",
-      "salt",
-      "water"
+      "salt"
     ]
   },
   "921": {
@@ -19583,8 +19500,7 @@
       "dry coconut",
       "cardamom powder",
       "ghee / clarified butter",
-      "jaggery / gud",
-      "water"
+      "jaggery / gud"
     ]
   },
   "924": {
@@ -19655,7 +19571,7 @@
     "URL": "https://hebbarskitchen.com/mango-frooti-recipe-mango-fruity-drink/",
     "Course": "beverages",
     "Cuisine": "Indian",
-    "Ingredients": ["ripened mango", "raw mango", "sugar", "water"]
+    "Ingredients": ["ripened mango", "raw mango", "sugar"]
   },
   "928": {
     "Name": "aloo toast recipe | aloo bread toast | aloo toast sandwich",
@@ -19846,8 +19762,7 @@
       "peas / matar",
       "potato",
       "beans",
-      "salt",
-      "water"
+      "salt"
     ]
   },
   "937": {
@@ -20345,8 +20260,7 @@
       "salt",
       "oil",
       "lemon juice",
-      "besan / gram flour",
-      "water"
+      "besan / gram flour"
     ]
   },
   "961": {
@@ -20599,8 +20513,7 @@
       "chilli sauce",
       "pepper powder",
       "salt",
-      "corn flour",
-      "water"
+      "corn flour"
     ]
   },
   "972": {
@@ -20661,8 +20574,7 @@
       "rava / semolina / suji",
       "ajwain / carom seeds",
       "salt",
-      "oil",
-      "water"
+      "oil"
     ]
   },
   "976": {
@@ -20671,10 +20583,10 @@
     "Course": "sweet",
     "Cuisine": "north indian",
     "Ingredients": [
-      "(100 grams) ghee / clarified butter",
-      "(160 grams) wheat four / atta",
+      "ghee / clarified butter",
+      "wheat four / atta",
       "cardamom powder",
-      "(120 grams) jaggery / gud, powdered"
+      "jaggery / gud, powdered"
     ]
   },
   "977": {
@@ -20728,14 +20640,14 @@
     "Course": "cookies",
     "Cuisine": "hyderabadi",
     "Ingredients": [
-      "(115 grams) ghee / clarified butter, thick",
-      "(65 grams) powdered sugar",
-      "(15 grams) milk powder",
-      "(115 grams) maida / plain flour",
-      "(18 grams) custard powder",
+      "ghee / clarified butter, thick",
+      "powdered sugar",
+      "milk powder",
+      "maida / plain flour",
+      "custard powder",
       "baking powder",
       "salt",
-      "(35 grams) cashew powder",
+      "cashew powder",
       "cardamom powder",
       "milk",
       "cashew"
@@ -20835,8 +20747,7 @@
       "ajwain / carom seeds",
       "hing / asafoetida",
       "salt",
-      "oil",
-      "water"
+      "oil"
     ]
   },
   "983": {
@@ -20941,9 +20852,9 @@
     "Course": "sweet",
     "Cuisine": "kerala",
     "Ingredients": [
-      "(250 grams) jaggery / gud",
+      "jaggery / gud",
       "coconut milk",
-      "(100 grams) rice flour",
+      "rice flour",
       "coconut milk",
       "ghee / clarified butter",
       "cashew / kaju",
@@ -21202,13 +21113,13 @@
     "Ingredients": [
       "milk",
       "salt",
-      "(15 grams) sugar",
-      "(30 grams) oil",
+      "sugar",
+      "oil",
       "maida / plain flour",
-      "(7 grams) milk powder",
+      "milk powder",
       "cinnamon powder",
-      "(5 grams) dry yeast",
-      "(95 grams) raisins / kishmish"
+      "dry yeast",
+      "raisins / kishmish"
     ]
   },
   "999": {
@@ -21307,13 +21218,12 @@
     "Course": "bread",
     "Cuisine": "international",
     "Ingredients": [
-      "(315 ml) water",
-      "(15 ml) vinegar",
-      "(125 gram) besan / chickpea flour",
-      "(160 grams) rice flour",
-      "(35 grams) kuttu atta / buckwheat flour",
-      "(25 grams) oat powder",
-      "(25 grams) sabudana atta / tapioca flour",
+      "vinegar",
+      "besan / chickpea flour",
+      "rice flour",
+      "kuttu atta / buckwheat flour",
+      "oat powder",
+      "sabudana atta / tapioca flour",
       "baking powder",
       "baking soda",
       "salt"
@@ -21528,10 +21438,10 @@
     "Course": "sweet",
     "Cuisine": "south indian",
     "Ingredients": [
-      "(250 gm) poha / aval",
+      "poha / aval",
       "ghee / clarified butter",
-      "(110 gm) coconut, grated",
-      "(190 gm) jaggery / gud",
+      "coconut, grated",
+      "jaggery / gud",
       "ghee / clarified butter",
       "cashew / kaju",
       "raisins / kishmish"
@@ -21545,7 +21455,6 @@
     "Ingredients": [
       "brinjal / eggplant",
       "salt",
-      "water for soaking",
       "peanuts",
       "sesame seeds / til",
       "coriander seeds",
@@ -22005,8 +21914,7 @@
       "fried onion",
       "biryani masala",
       "saffron milk",
-      "ghee / clarified butter",
-      "water"
+      "ghee / clarified butter"
     ]
   },
   "1035": {
@@ -22233,8 +22141,7 @@
       "cashew / kaju",
       "jaggery",
       "turmeric",
-      "salt",
-      "water"
+      "salt"
     ]
   },
   "1046": {
@@ -22920,7 +22827,7 @@
     "URL": "https://hebbarskitchen.com/cappuccino-recipe-homemade-cappuccino/",
     "Course": "beverages",
     "Cuisine": "international",
-    "Ingredients": ["instant coffee powder", "sugar", "water", "milk"]
+    "Ingredients": ["instant coffee powder", "sugar", "milk"]
   },
   "1076": {
     "Name": "narali bhat recipe | narali bhaat | maharashtrian sweet coconut rice recipe",
@@ -23378,8 +23285,8 @@
     "Course": "biscuit",
     "Cuisine": "international",
     "Ingredients": [
-      "(100 gm) butter, softened",
-      "(200 gm) wheat flour / atta",
+      "butter, softened",
+      "wheat flour / atta",
       "salt",
       "baking powder",
       "baking soda",
@@ -23432,13 +23339,13 @@
     "Course": "cake",
     "Cuisine": "international",
     "Ingredients": [
-      "(120 ml) milk",
-      "(60 ml) oil",
+      "milk",
+      "oil",
       "vinegar",
       "vanilla extract",
-      "(120 gm) maida / plain flour",
-      "(20 gm) cocoa powder",
-      "(55 gm) powdered sugar",
+      "maida / plain flour",
+      "cocoa powder",
+      "powdered sugar",
       "baking powder",
       "baking soda",
       "salt",
@@ -23555,8 +23462,7 @@
       "chilli flakes",
       "pepper powder",
       "spring onion",
-      "corn flour",
-      "water"
+      "corn flour"
     ]
   },
   "1103": {
@@ -23642,10 +23548,10 @@
     "Ingredients": [
       "coconut oil",
       "methi / fenugreek seeds",
-      "20 gm coriander seeds",
+      "coriander seeds",
       "cumin / jeera",
-      "(30 gm) dried red chilli",
-      "curry leaves",
+      "dried red chilli",
+      "few curry leaves",
       "hing / asafoetida"
     ]
   },
@@ -23745,7 +23651,6 @@
     "Ingredients": [
       "fada / daliya / broken wheat",
       "moong dal",
-      "water for soaking",
       "ghee / clarified butter",
       "mustard",
       "cumin / jeera",
@@ -23910,8 +23815,7 @@
       "sugar",
       "salt",
       "spring onion",
-      "corn flour",
-      "water"
+      "corn flour"
     ]
   },
   "1120": {
@@ -23920,11 +23824,10 @@
     "Course": "sweet",
     "Cuisine": "south indian",
     "Ingredients": [
-      "(87 grams) besan / gram flour",
-      "(46 grams) horlicks",
-      "(200 grams) ghee / clarified butter",
-      "(282 grams) sugar",
-      "(60 ml) water"
+      "besan / gram flour",
+      "horlicks",
+      "ghee / clarified butter",
+      "sugar"
     ]
   },
   "1121": {
@@ -24128,8 +24031,7 @@
       "kashmiri red chilli powder",
       "pepper powder",
       "salt",
-      "corn flour",
-      "water"
+      "corn flour"
     ]
   },
   "1130": {
@@ -24284,17 +24186,16 @@
     "Cuisine": "international",
     "Ingredients": [
       "banana",
-      "(180 gm) sugar",
-      "(120 ml) oil",
+      "sugar",
+      "oil",
       "vanilla extract",
       "vinegar",
-      "(262 gm) maida / plain flour",
-      "(45 grm) cocoa powder",
+      "maida / plain flour",
+      "cocoa powder",
       "baking powder",
       "baking soda",
       "salt",
-      "(120 ml) water",
-      "(30 gm) walnut, chopped",
+      "walnut, chopped",
       "chocolate chip"
     ]
   },
@@ -24358,7 +24259,6 @@
       "urad dal",
       "poha / aval / avalakki / flattened rice",
       "idli rice or sona masuri rice",
-      "water for soaking",
       "salt",
       "oil"
     ]
@@ -24520,8 +24420,8 @@
     "Cuisine": "Indian",
     "Ingredients": [
       "mango",
-      "(75 grams) corn flour",
-      "(160 grams) sugar",
+      "corn flour",
+      "sugar",
       "ghee / clarified butter",
       "cardamom powder",
       "desiccated coconut"
@@ -24545,8 +24445,7 @@
       "pepper powder",
       "mint",
       "coriander",
-      "cornflour",
-      "water"
+      "cornflour"
     ]
   },
   "1147": {
@@ -24624,8 +24523,7 @@
       "tamarind extract",
       "turmeric",
       "jaggery",
-      "salt",
-      "water"
+      "salt"
     ]
   },
   "1150": {
@@ -24634,12 +24532,12 @@
     "Course": "sweet",
     "Cuisine": "south indian",
     "Ingredients": [
-      "(100 grams) almonds / badam, halves",
-      "(100 grams) cashew / kaju, chopped",
-      "(25 grams) pistachios",
-      "(25 grams) pumpkin seeds",
+      "almonds / badam, halves",
+      "cashew / kaju, chopped",
+      "pistachios",
+      "pumpkin seeds",
       "ghee / clarified butter",
-      "(200 grams) jaggery / gud",
+      "jaggery / gud",
       "cardamom powder"
     ]
   },
@@ -24742,16 +24640,16 @@
     "Course": "cake",
     "Cuisine": "international",
     "Ingredients": [
-      "(45 gram) butter",
-      "(25 gm) brown sugar",
+      "butter",
+      "brown sugar",
       "pineapple",
       "cherry",
-      "(125 ml) oil",
-      "(210 gm) sugar",
-      "(255 ml) milk",
+      "oil",
+      "sugar",
+      "milk",
       "vinegar",
       "pineapple essence",
-      "(300 gm) maida / plain flour",
+      "maida / plain flour",
       "baking powder",
       "baking soda",
       "salt"
@@ -24879,10 +24777,10 @@
     "Cuisine": "international",
     "Ingredients": [
       "butter",
-      "(100 gm) powdered sugar",
+      "powdered sugar",
       "vanilla extract",
-      "(200 gm) maida / plain flour",
-      "(15 gm) cocoa powder",
+      "maida / plain flour",
+      "cocoa powder",
       "baking powder",
       "salt",
       "milk",
@@ -25144,7 +25042,7 @@
     "Course": "sweet",
     "Cuisine": "Indian",
     "Ingredients": [
-      "(260 grams) dates / khajoor",
+      "dates / khajoor",
       "ghee / clarified butter",
       "cardamom powder",
       "cornflour",
@@ -25260,8 +25158,7 @@
       "urad dal",
       "methi / fenugreek seeds",
       "thin poha / avalakki / beaten rice",
-      "salt",
-      "water for soaking"
+      "salt"
     ]
   },
   "1180": {
@@ -25355,8 +25252,7 @@
       "tomato sauce",
       "pepper powder",
       "salt",
-      "cornflour",
-      "water"
+      "cornflour"
     ]
   },
   "1184": {
@@ -25366,15 +25262,15 @@
     "Cuisine": "Indian",
     "Ingredients": [
       "mango",
-      "180 grams sugar",
-      "(120 ml) oil",
+      "sugar",
+      "oil",
       "vinegar",
       "yellow food colour",
-      "(280 grams) maida / plain flour",
+      "maida / plain flour",
       "baking powder",
       "baking soda",
       "salt",
-      "(60 ml) milk",
+      "milk",
       "salt or sand"
     ]
   },
@@ -25402,10 +25298,10 @@
     "Course": "bread",
     "Cuisine": "Indian",
     "Ingredients": [
-      "(185 ml) milk",
+      "milk",
       "sugar",
       "dry yeast",
-      "(220 grams) maida / plain flour",
+      "maida / plain flour",
       "salt",
       "butter",
       "milk",
@@ -25467,11 +25363,11 @@
     "Course": "cookies",
     "Cuisine": "Indian",
     "Ingredients": [
-      "(120 ml) ghee / clarified butter",
-      "(80 gm) powdered sugar",
-      "(155 gm) maida / plain flour",
-      "(90 gm) besan / gram flour",
-      "(20 gm) rava / semolina / suji",
+      "ghee / clarified butter",
+      "powdered sugar",
+      "maida / plain flour",
+      "besan / gram flour",
+      "rava / semolina / suji",
       "baking powder",
       "cardamom powder",
       "salt",
@@ -25666,7 +25562,7 @@
     "Course": "sweet",
     "Cuisine": "south indian",
     "Ingredients": [
-      "(125 grams) walnut",
+      "walnut",
       "ghee / clarified butter",
       "milk",
       "sugar",
