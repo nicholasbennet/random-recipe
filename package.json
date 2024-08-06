@@ -36,7 +36,7 @@
   },
   "homepage": "https://nicholasbennet.github.io/random-recipe",
   "devDependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^6.1.1"
   },
   "engines": { 
     "node": "12.x" 
